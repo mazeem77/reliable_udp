@@ -120,7 +120,7 @@ int main(int argc, char* argv[]) {
 	time1.tv_sec = 0;
 	time1.tv_nsec = 300000000L;
 
-	FILE * in = fopen("input_video.mp4","rb"); // open the video file in read mode
+	FILE * in = fopen("./media/video.mp4","rb"); // open the video file in read mode
 	
 	// if the file is not readable
 	if (in == NULL) {
