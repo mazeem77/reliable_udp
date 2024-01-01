@@ -49,14 +49,14 @@ The receiver sets up a UDP socket, binds it, and then awaits data from the sende
 
 ### Client:
 ##### Connection Initialized:
-![Client Output 1](https://github.com/mazeem77/reliable_udp/blob/main/media/client1.jpeg)
+![Client Output 1](https://github.com/mazeem77/reliable_udp/blob/main/media/client-1.jpeg)
 ##### Process Completed
-![Client Output 2](https://github.com/mazeem77/reliable_udp/blob/main/media/client2.jpeg)
+![Client Output 2](https://github.com/mazeem77/reliable_udp/blob/main/media/client-2.jpeg)
 ### Server:
 ##### Connection Initialized:
-![Server Output 1](https://github.com/mazeem77/reliable_udp/blob/main/media/server1.jpeg)
+![Server Output 1](https://github.com/mazeem77/reliable_udp/blob/main/media/server-1.jpeg)
 ##### Process Completed
-![Server Output 2](https://github.com/mazeem77/reliable_udp/blob/main/media/server2.jpeg)
+![Server Output 2](https://github.com/mazeem77/reliable_udp/blob/main/media/server-2.jpeg)
 
 ### File Explorer:
 ![Server Output 2](https://github.com/mazeem77/reliable_udp/blob/main/media/output.jpeg)
